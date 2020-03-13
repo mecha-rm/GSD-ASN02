@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{4507dc2a-6b3c-4a3e-86ca-a6682be90d67}">
+		<property name="assetPath">
+			<value>Monkey.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.7259637188208616</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{562fc2a2-cdf3-44a6-a6fc-0e4fd45a27c1}</destination>
+		</relationship>
+	</object>
+</objects>
