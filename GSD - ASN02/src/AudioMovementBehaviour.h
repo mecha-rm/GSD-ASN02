@@ -22,8 +22,8 @@ public:
 		// TODO:: ooo ooo ahh ahh
 		AudioEngine& audioEngine = AudioEngine::GetInstance();
 
-		audioEngine.LoadEvent("Monkey");
-		audioEngine.PlayEvent("Monkey");
+		// audioEngine.LoadEvent("Monkey");
+		// audioEngine.PlayEvent("Monkey");
 
 		newPosition = transform.GetLocalPosition();
 	}

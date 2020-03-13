@@ -9,8 +9,8 @@ void AudioLayer::Initialize()
 	audioEngine.Init(); // getting the singleton.
 	audioEngine.LoadBank("Master");
 
-	audioEngine.LoadEvent("Music");
-	// audioEngine.PlayEvent("Music");
+	audioEngine.LoadEvent("Car Crash");
+	audioEngine.PlayEvent("Car Crash");
 }
 
 void AudioLayer::Shutdown()

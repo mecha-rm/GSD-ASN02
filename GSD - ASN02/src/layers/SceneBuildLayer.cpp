@@ -102,8 +102,9 @@ void SceneBuilder::Initialize()
 		Transform& t = scene->Registry().get<Transform>(eMonkey);
 		t.SetPosition(glm::vec3(0, 0, -10));
 		
+		// no audio movement (TODO: add it back in?)
 		// Make our monkeys spin around the center
-		scene->AddBehaviour<AudioMovementBehaviour>(eMonkey);
+		// scene->AddBehaviour<AudioMovementBehaviour>(eMonkey);
 	}
 	
 	
