@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{d16ae09d-32a1-4e0f-b0f6-3f75f7de4d54}">
+		<property name="assetPath">
+			<value>tires.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.1493877551020408</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7d9d0a0d-f4fb-4507-8d22-6c561c81434c}</destination>
+		</relationship>
+	</object>
+</objects>
